@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/lightDark"
+    android:background="#050F15"
     tools:context=".presentation.books.MainActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbarMain"
         android:layout_width="0dp"
         android:layout_height="?android:attr/actionBarSize"
-        android:background="@color/darkBlue"
+        android:background="#240b36"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -24,6 +24,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toolbarMain">
+
+
 
         <ProgressBar
             android:layout_width="wrap_content"
@@ -49,8 +51,6 @@
             android:layout_gravity="center"
             android:text="Error 401"
             />
-
-
 
     </ViewFlipper>
 

@@ -2,18 +2,20 @@
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/favoriteBackground"
     xmlns:tools="http://schemas.android.com/tools"
-    android:backgroundTint="@color/lightDark"
+    android:backgroundTint="@color/black"
     >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:background="#C7C2B5"
+        android:background="@drawable/gradient"
         android:padding="16dp"
-        android:layout_margin="8dp"
+        android:layout_margin="2dp"
+
         >
 
 
@@ -22,7 +24,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             tools:text="Tittle"
-            style="@style/ItemBookStyle"
+            android:textColor="#FFFCE6"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
             />
         <TextView
             android:id="@+id/textAuthor"
@@ -30,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             tools:text="Author"
-            android:textColor="@color/black"
+            android:textColor="#FFFCE6"
 
             />
 
