@@ -48,38 +48,11 @@ Aprendizado - Me introduzir a prática de consumo de API.
  
  
  
-<h3 align="center">Nexux 9 - Ainda em desenvolvimento</h3>
-<p align="center">
- 
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123184584-5dc8e180-d46a-11eb-928e-245e877c4db9.png"/>
-
- </p>
- 
- 
-### Features
-
-- [x] Consumir Api
-- [x] Usar Lib Lottie
-- [x] Requisitar a api somente 1 vez a cada 1 dia
-- [x] Requisitar dados somente do banco de dados
-- [x] Gravar dados da api no banco de dados
-- [x] Realizar animações utilizando a biblioteca Lottie
-- [x] Usar somente blocos em SVG para compor as imagens
-- [ ] Toast em cima de views específicas
-- [ ] Adaptar a tela do NEXUS 9
-
-### Testes
-
-- [ ] Testes unitários
-- [ ] Testes instrumentados
-- [ ] Testes de UI
 
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Koin](https://insert-koin.io/)
-- [Coroutines](https://developer.android.com/kotlin/coroutines?hl=pt-br)
-- [Espresso](https://developer.android.com/training/testing/espresso)
 - [Retrofit](https://square.github.io/retrofit/)
-- [Lottie](https://github.com/airbnb/lottie-android)
+
