@@ -1,5 +1,5 @@
 # Api NyBooks 
-####  | Coroutines | Koin | MVVM | Room | Retrofit
+####  | Koin | MVVM | Retrofit | Gson
 
 
 **Tecnologias aplicadas**
