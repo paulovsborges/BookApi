@@ -35,7 +35,7 @@ Aprendizado - Me introduzir a prática de consumo de API.
 </p>
 
 ### Imagens do app 
-#### OBS.: ROTAÇÃO DA TELA PARA MOSTRAR O CICLO DE VIDA DA ACTIVITY
+#### OBS.: ROTAÇÃO DE TELA COM O PROPÓSITO DE MOSTRAR O CICLO DE VIDA DA ACTIVITY
 <h3 align="center">Pixel 4</h3>
 <p align="center">
  
