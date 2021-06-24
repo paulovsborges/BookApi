@@ -17,7 +17,6 @@
 <p align="center">
  <a href="#objetivo">Instalação</a> •
  <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
  <a href="#features">Features</a> •  
 </p>
 
