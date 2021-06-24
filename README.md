@@ -46,23 +46,7 @@ Aprendizado - Me introduzir a prática de consumo de API.
  
  </p>
  
-<h3 align="center">Nexux 4</h3>
-<p align="center">
  
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123183875-e2b2fb80-d468-11eb-9c6c-3a68b9190238.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123183948-08d89b80-d469-11eb-81f2-6c0880a38c11.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123183988-1b52d500-d469-11eb-9c1c-1bb60cfd2fd1.png"/>
-
- </p>
- 
-<h3 align="center">Nexux 6</h3>
-<p align="center">
- 
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123184262-b51a8200-d469-11eb-97a6-351b251c59f0.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123184322-d2e7e700-d469-11eb-833c-780bcb97c88a.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123184328-d5e2d780-d469-11eb-96fa-2816873b431a.png"/>
-
- </p>
  
 <h3 align="center">Nexux 9 - Ainda em desenvolvimento</h3>
 <p align="center">
