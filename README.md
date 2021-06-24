@@ -37,12 +37,13 @@ Aprendizado - Me introduzir a prática de consumo de API.
 
 ### Imagens do app 
 #### OBS.: ROTAÇÃO DA TELA PARA MOSTRAR O CICLO DE VIDA DA ACTIVITY
-<h3 align="center">Nexux One</h3>
+<h3 align="center">Pixel 4</h3>
 <p align="center">
  
+ ![Captura de tela 2021-06-24 083531](https://user-images.githubusercontent.com/82162410/123258414-b7acc400-d4c9-11eb-88ac-8c5b3ee86070.png)
+
  <img align="center" height="400em" src="https://user-images.githubusercontent.com/fb2441c6-b261-49b5-a5df-ee8e572a53f5.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123183557-26f1cc00-d468-11eb-9a08-7263ca0d1b65.png"/>
- <img align="center" height="400em" src="https://user-images.githubusercontent.com/50078639/123183612-412baa00-d468-11eb-84bc-a835470bd9ee.png"/>
+
  
  </p>
  
