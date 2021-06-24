@@ -59,4 +59,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Koin](https://insert-koin.io/)
 - [Retrofit](https://square.github.io/retrofit/)
+- [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 
