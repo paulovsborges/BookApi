@@ -41,9 +41,7 @@ Aprendizado - Me introduzir a prática de consumo de API.
  
 <![Captura de tela 2021-06-24 083531](https://user-images.githubusercontent.com/82162410/123258414-b7acc400-d4c9-11eb-88ac-8c5b3ee86070.png)/>
  <![Captura de tela 2021-06-24 083703](https://user-images.githubusercontent.com/82162410/123258562-e4f97200-d4c9-11eb-8a1d-d7425319b7b2.png)/>
- </p>
  
- <p align="center">
  <![Captura de tela 2021-06-24 083639](https://user-images.githubusercontent.com/82162410/123258584-ec208000-d4c9-11eb-84d6-09faaab1ebda.png)/>
  <![Captura de tela 2021-06-24 083722](https://user-images.githubusercontent.com/82162410/123258599-efb40700-d4c9-11eb-8d95-18198d5b52d2.png)/>
 
