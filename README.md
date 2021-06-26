@@ -45,7 +45,7 @@ Aprendizado - Me introduzir a prática de consumo de API.
  
  <p align="center">
  <img align="center" height="200em" src="https://user-images.githubusercontent.com/82162410/123258584-ec208000-d4c9-11eb-84d6-09faaab1ebda.png"/>
- <img align="bottom" height="200em" src="https://user-images.githubusercontent.com/82162410/123258599-efb40700-d4c9-11eb-8d95-18198d5b52d2.png"/>
+ <img align="center" height="200em" src="https://user-images.githubusercontent.com/82162410/123258599-efb40700-d4c9-11eb-8d95-18198d5b52d2.png"/>
 
 
  </p>
