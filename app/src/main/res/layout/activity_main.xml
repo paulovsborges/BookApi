@@ -28,6 +28,11 @@
 
 
 
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerBooks"
@@ -48,11 +53,7 @@
             android:text="Error 401"
             />
 
-        <ProgressBar
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            />
+
 
 
 
