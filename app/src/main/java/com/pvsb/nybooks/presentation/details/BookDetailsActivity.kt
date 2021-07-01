@@ -1,12 +1,10 @@
 package com.pvsb.nybooks.presentation.details
 
-import android.content.Context
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.pvsb.nybooks.R
+import com.pvsb.nybooks.model.constants.AppConstants
 import com.pvsb.nybooks.databinding.ActivityBookDetailsBinding
-import com.pvsb.nybooks.databinding.ActivityMainBinding
 
 class BookDetailsActivity : AppCompatActivity() {
 
@@ -15,33 +13,21 @@ class BookDetailsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityBookDetailsBinding.inflate(layoutInflater)
-        val view = binding.root
-        setContentView(view)
+        setContentView(binding.root)
 
-
-
-        binding.toolbarMain.title = getString(R.string.books_title_details)
-        setSupportActionBar(binding.toolbarMain)
-
-
-        binding.bookDetailsTitle.text = intent.getStringExtra(EXTRA_TITLE)
-        binding.bookDetailsDescription.text = intent.getStringExtra(EXTRA_DESCRIPTION)
-
-
-
+        configToolbar()
+        setExtras()
     }
 
-    companion object{
+    private fun setExtras() {
+        if (intent.hasExtra(AppConstants.INTENT_TITLE) && intent.getStringExtra(AppConstants.INTENT_TITLE) != null)
+            binding.bookDetailsTitle.text = intent.getStringExtra(AppConstants.INTENT_TITLE)!!
+        if (intent.hasExtra(AppConstants.INTENT_DESCRIPTION) && intent.getStringExtra(AppConstants.INTENT_DESCRIPTION) != null)
+            binding.bookDetailsDescription.text = intent.getStringExtra(AppConstants.INTENT_DESCRIPTION)!!
+    }
 
-        private const val EXTRA_TITLE = "EXTRA_TITLE"
-        private const val EXTRA_DESCRIPTION = "EXTRA_DESCRIPTION"
-
-        fun getStartIntent(context: Context, title: String, description: String): Intent{
-
-            return Intent(context, BookDetailsActivity::class.java).apply {
-                putExtra(EXTRA_TITLE, title)
-                putExtra(EXTRA_DESCRIPTION, description)
-            }
-        }
+    private fun configToolbar() {
+        binding.toolbarMain.title = getString(R.string.books_title_details)
+        setSupportActionBar(binding.toolbarMain)
     }
 }
