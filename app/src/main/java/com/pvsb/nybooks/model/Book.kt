@@ -1,9 +1,8 @@
-package com.pvsb.nybooks.data.model
+package com.pvsb.nybooks.model
 
 data class Book (
 
     val title: String,
     val author: String,
     val description: String
-
         )
